@@ -38,7 +38,7 @@ The following **additional** features are implemented:
       <p>Simulator - iPhone 14 Pro - 6 October 2023 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/695b43c9dd8a432bb1c0b4cdac3699e3">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/695b43c9dd8a432bb1c0b4cdac3699e3-with-play.gif">
     </a>
   </div>
 
