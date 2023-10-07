@@ -4,7 +4,7 @@ IOS Development CODEPATH
 
 Submitted by: **Abeyah Calpatura**
 
-**Quiz Game** is an app that ... [TODO] 
+**Quiz Game** is an app that quizzes you on different math questions
 
 Time spent: 12 hours spent in total
 
