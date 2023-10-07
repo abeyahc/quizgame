@@ -4,7 +4,7 @@ IOS Development CODEPATH
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that ... [TODO] 
+**Quiz Game** is an app that ... [TODO] 
 
 Time spent: 12 hours spent in total
 
