@@ -1,6 +1,6 @@
 # quizgame
 IOS Development CODEPATH
-# Project 3 - *Name of App Here*
+# Project 3 - *Quiz Game*
 
 Submitted by: **Your Name Here**
 
