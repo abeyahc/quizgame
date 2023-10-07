@@ -2,7 +2,7 @@
 IOS Development CODEPATH
 # Project 3 - *Quiz Game*
 
-Submitted by: **Your Name Here**
+Submitted by: **Abeyah Calpatura**
 
 **Quiz Game** is an app that ... [TODO] 
 
